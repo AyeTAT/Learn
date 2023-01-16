@@ -1,3 +1,10 @@
+<!--
+ * @Author: Dzy
+ * @Date: 2023-01-16 15:20:50
+ * @LastEditors: Dzy
+ * @LastEditTime: 2023-01-16 15:35:51
+ * @Description: Desc
+-->
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
 </script>
@@ -13,7 +20,7 @@ import HelloWorld from './components/HelloWorld.vue'
   </div>
   <HelloWorld msg="Vite + Vue" />
 </template>
-
+<!--  -->
 <style scoped>
 .logo {
   height: 6em;
