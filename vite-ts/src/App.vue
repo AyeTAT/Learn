@@ -2,8 +2,8 @@
  * @Author: Dzy
  * @Date: 2023-01-16 15:20:50
  * @LastEditors: Dzy
- * @LastEditTime: 2023-01-16 15:35:51
- * @Description: Desc
+ * @LastEditTime: 2023-01-16 15:51:33
+ * @Description: 主应用
 -->
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
