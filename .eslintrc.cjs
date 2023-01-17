@@ -2,7 +2,7 @@
  * @Author: Dzy
  * @Date: 2023-01-16 16:33:37
  * @LastEditors: Dzy
- * @LastEditTime: 2023-01-16 16:45:58
+ * @LastEditTime: 2023-01-17 10:00:01
  * @Description: eslint文件配置
  */
 module.exports = {
