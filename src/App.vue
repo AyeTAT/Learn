@@ -2,7 +2,7 @@
  * @Author: Dzy
  * @Date: 2023-01-16 15:20:50
  * @LastEditors: Dzy
- * @LastEditTime: 2023-01-16 15:51:33
+ * @LastEditTime: 2023-01-17 13:39:28
  * @Description: 主应用
 -->
 <script setup lang="ts">
@@ -23,13 +23,15 @@ import HelloWorld from './components/HelloWorld.vue'
 <!--  -->
 <style scoped>
 .logo {
-  height: 6em;
   padding: 1.5em;
+  height: 6em;
   will-change: filter;
 }
+
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
+
 .logo.vue:hover {
   filter: drop-shadow(0 0 2em #42b883aa);
 }
